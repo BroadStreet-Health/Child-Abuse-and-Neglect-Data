@@ -53,7 +53,6 @@ Data is collected as a cumulative count rather than a daily count. Types of abus
 
 When the county is not listed nor its numerical data, often from lack of collection (e.g. geological effects, data release phases), a “-” is used to denote this. When 0 cases are reported in a category, a 0 is used as the placeholder.
 
-Reports used for data collection are labeled as “Child Abuse and Neglect Annual Report Fiscal Year YYYY.” Within this report and using its Appendix, a table will be labeled as “FY [Fiscal Year] YYYY Substantiated Children by Category of Abuse/Neglect.” The total number values under Physical Abuse, Neglect, Emotional Abuse, and Sexual Abuse are captured.
 
 #### <u>Coding:</u>
 Table 1. Total cases
