@@ -29,8 +29,8 @@ When the county is not listed nor its numerical data, often from lack of collect
 Table 1. Types of abuse
 Variable Name  | Variable Description
 ------------- | ------------- 
-Investigated  | Data is listed under “Allegations” - Reports are those that allege a child might have been a victim of child abuse<sup>[1] (https://www.dhs.pa.gov/docs/Publications/Pages/Child-Abuse-Reports.aspx)</sup>
-Units Reported  | Total number of cases<sup>[1] (https://www.dhs.pa.gov/docs/Publications/Pages/Child-Abuse-Reports.aspx)</sup>
+Investigated  | Data is listed under “Allegations” - Reports are those that allege a child might have been a victim of child abuse<sup [1](https://www.dhs.pa.gov/docs/Publications/Pages/Child-Abuse-Reports.aspx)</sup>
+Units Reported  | Total number of cases<sup>[1](https://www.dhs.pa.gov/docs/Publications/Pages/Child-Abuse-Reports.aspx)</sup>
 
 
 ## Methodology
