@@ -29,8 +29,8 @@ When the county is not listed nor its numerical data, often from lack of collect
 Table 1. Types of abuse
 Variable Name  | Variable Description
 ------------- | ------------- 
-Substantiated  | Reports of abuse are evidenced - supported by evidence<sup>[1] (https://www.mdhs.ms.gov/annual-reports/)</sup>
-Units Reported  | Total number of cases<sup>[1] (https://www.mdhs.ms.gov/annual-reports/)</sup>
+Substantiated  | Reports of abuse are evidenced - supported by evidence<sup>[1](https://www.mdhs.ms.gov/annual-reports/)</sup>
+Units Reported  | Total number of cases<sup>[1](https://www.mdhs.ms.gov/annual-reports/)</sup>
 
 
 ## Methodology
