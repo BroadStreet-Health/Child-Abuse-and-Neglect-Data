@@ -102,7 +102,7 @@ Child Abuse data may be reported in various formats, which can complicate any ef
 When using data images, downloaded data, or shared document formats, please attribute BroadStreet as well as the original source, when applicable. For examples and more information, review this article which answers the question  ["How do I cite BroadStreet?"](https://help.broadstreet.io/article/citations/)
 
 ## Contributors
-Ernesto Lopez; [Brenna Jarvis, MPH](https://www.linkedin.com/in/brenna-jarvis-88b4351b6/); Meenal Khandaker; Sarah Murata. 
+Ernesto Lopez; [Brenna Jarvis, MPH](https://www.linkedin.com/in/brenna-jarvis-88b4351b6/); Meenal Khandaker; Sarah Murata; Riya Kumar. 
 
 A full list of the Broadstreet Institute volunteers can be found at [https://covid19dataproject.org/team-2/](https://covid19dataproject.org/team-2/)
 
